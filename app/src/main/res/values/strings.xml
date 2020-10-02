@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DtsChapter03-starter</string>
+    <string name="logo_text">logo_text</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_in">Log In</string>
+    <string name="reset_code">Reset code</string>
+    <string name="enter_your_reset_code">Enter your reset code</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="change_password">Change password</string>
+    <string name="username">Username</string>
+    <string name="send_request">Send request</string>
+</resources>
